@@ -6,7 +6,6 @@
 
 **AI/ML Engineer · Data Science**
 
-<img src="cat.png" width="130"/>
 
 <br/>
 
