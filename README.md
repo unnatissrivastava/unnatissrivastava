@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-I'm a Data Science and Machine Learning enthusiast who enjoys turning raw, messy data into clear, usable insight. My work centers on Python, and I spend most of my time cleaning data, exploring it, and building models that are easy to explain — not just ones that score well on a leaderboard.
+I'm a Data Science and Machine Learning enthusiast who enjoys turning raw, messy data into clear, usable insight. My work centers on Python, and I spend most of my time cleaning data, exploring it, and building models that are easy to explain, not just ones that score well on a leaderboard.
 
 I believe good data science starts with asking the right question, not jumping straight to the algorithm. Along the way, I'm also picking up web development, so I can build interfaces for the things I create, not just notebooks.
 
@@ -42,7 +42,7 @@ approach:
   - learn something new every project
 ```
 
-> Good data science isn't just about the model — it's about asking the right question first.
+> Good data science isn't just about the model, it's about asking the right question first.
 
 <br/>
 
@@ -105,7 +105,7 @@ approach:
 - 🔭 Working on strengthening my **machine learning and data analysis** skills through hands-on projects
 - 🌱 Learning **web development** alongside my AI/ML journey
 - 💡 Interested in collaborating on **data-driven products** and clean, well-documented pipelines
-- 📫 Best way to reach me — LinkedIn or email below
+- 📫 Best way to reach me : LinkedIn or email below
 
 <br/>
 
