@@ -100,7 +100,3 @@ I build with data — cleaning it, modeling it, and finding the story inside it.
 
 </div>
 
-
-
-
-Claude is AI and can make mistakes. Please d
