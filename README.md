@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2E40,100:5B9BD5&height=110&section=header" width="100%"/>
 
-<img src="terminal.svg" width="560"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1500&color=E9DFC0&center=true&vCenter=true&width=600&height=55&lines=Unnati+Vardhan+Srivastava" alt="name"/>
 
-<img src="orbit.svg" width="70" height="70"/>
+**AI/ML Engineer · Data Science**
+
+<img src="cat.png" width="130"/>
 
 <br/>
 
