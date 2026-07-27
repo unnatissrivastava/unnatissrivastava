@@ -1,6 +1,6 @@
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:2E2E2E&height=100&section=header" width="100%"/>
 
 # Unnati Vardhan Srivastava
 
@@ -91,5 +91,7 @@ I build with data — cleaning it, modeling it, and finding the story inside it.
 <sub>open to collaborating on data science & ML projects</sub>
 
 <sub>![Profile views](https://komarev.com/ghpvc/?username=unnatissrivastava&style=flat&color=grey&label=views)</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2E2E,100:0D0D0D&height=80&section=footer" width="100%"/>
 
 </div>
