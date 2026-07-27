@@ -2,13 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2E40,100:5B9BD5&height=110&section=header" width="100%"/>
 
-# Unnati Vardhan Srivastava
-
-**AI/ML Engineer · Data Science**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=2000&color=8B8B8B&center=true&vCenter=true&width=440&height=30&lines=turning+raw+data+into+real+insight;python+%C2%B7+pandas+%C2%B7+numpy+%C2%B7+scikit-learn;always+learning%2C+always+building" alt="tagline"/>
-
-<br/>
+<img src="terminal.svg" width="560"/>
 
 <img src="orbit.svg" width="70" height="70"/>
 
@@ -47,53 +41,6 @@ approach:
 ```
 
 > Good data science isn't just about the model — it's about asking the right question first.
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 📊 Project One
-A short but clear description of the problem this project solves, the data used, and the outcome it delivers.
-
-`Python` `Pandas` `NumPy`
-
-[View repo →](https://github.com/unnatissrivastava)
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 Project Two
-A short but clear description of the problem this project solves, the approach taken, and results achieved.
-
-`Python` `Scikit-learn`
-
-[View repo →](https://github.com/unnatissrivastava)
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 Project Three
-A short but clear description covering what was built, what it does, and why it's useful.
-
-`HTML` `CSS` `JavaScript`
-
-[View repo →](https://github.com/unnatissrivastava)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-*(Replace these three cards with your real repos — happy to fill these in for you)*
-
-[![View all repositories](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-5B9BD5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unnatissrivastava?tab=repositories)
-
-</div>
 
 <br/>
 
