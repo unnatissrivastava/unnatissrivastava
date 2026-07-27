@@ -10,6 +10,10 @@
 
 <br/>
 
+<img src="orbit.svg" width="70" height="70"/>
+
+<br/>
+
 [`LinkedIn`](https://www.linkedin.com/in/unnati-vardhan-srivastava-945bba281/) &nbsp;·&nbsp; [`Email`](mailto:unnati.srivastava66@gmail.com) &nbsp;·&nbsp; [`Repositories`](https://github.com/unnatissrivastava?tab=repositories)
 
 <br/>
