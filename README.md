@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6f7750&height=200&section=header&text=Unnati%20Vardhan%20Srivastava&fontSize=36&fontColor=E9DFC0&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Building%20with%20Data&descAlignY=55&descSize=17&descColor=D9D1C0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:2F3B23,100:6f7750&height=210&section=header&text=Unnati%20Vardhan%20Srivastava&fontSize=36&fontColor=E9DFC0&animation=twinkling&fontAlignY=38&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Building%20with%20Data&descAlignY=58&descSize=17&descColor=D9D1C0&descAnimation=twinkling" width="100%"/>
 
 <br/>
 
@@ -161,6 +161,6 @@ I'm open to collaborating on data science and ML projects, learning together, an
 
 `Explore the data. Build the model. Trust the result.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f7750,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6f7750,50:2F3B23,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
