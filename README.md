@@ -102,19 +102,4 @@ approach:
 
 <br/>
 
-## 🤝 Let's Connect
 
-<div align="center">
-
-I'm open to collaborating on data science and ML projects, learning together, and interesting analytics problems.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/unnati-vardhan-srivastava-945bba281/)
-[![Gmail](https://img.shields.io/badge/Send_an_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C93355)](mailto:unnati.srivastava66@gmail.com)
-
-<br/>
-
-`Explore the data. Build the model. Trust the result.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B9BD5,100:1A2E40&height=100&section=footer" width="100%"/>
-
-</div>
