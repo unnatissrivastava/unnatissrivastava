@@ -6,6 +6,7 @@
 
 **AI/ML Engineer · Data Science**
 
+<img src="cat.png" width="130"/>
 
 <br/>
 
@@ -45,34 +46,33 @@ approach:
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Engineering Stack
+
+<div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<img src="https://skillicons.dev/icons?i=py,c,js" />
 
-**Data Science & Machine Learning**
+<br/>
 
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=3F4F75)
+**Application and Web**
 
-**Web Development**
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br/>
 
-**Tools & Environment**
+**AI, Backend and Data**
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E9DFC0)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+<img src="https://skillicons.dev/icons?i=anaconda,sqlite" />
+
+<br/>
+
+**Tools and Environment**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+
+</div>
 
 <br/>
 
@@ -80,8 +80,8 @@ approach:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=unnatissrivastava&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=5B9BD5&text_color=D9D1C0&icon_color=5B9BD5" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnatissrivastava&layout=compact&hide_border=true&bg_color=0D1117&title_color=5B9BD5&text_color=D9D1C0" width="38%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=unnatissrivastava&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=5B9BD5&text_color=D9D1C0&icon_color=5B9BD5" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=unnatissrivastava&layout=compact&hide_border=true&bg_color=0D1117&title_color=5B9BD5&text_color=D9D1C0" width="38%"/>
 
 <br/>
 
