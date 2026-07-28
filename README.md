@@ -8,8 +8,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/unnati-vardhan-srivastava-945bba281/)
-[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C93355)](mailto:unnati.srivastava66@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unnati-vardhan-srivastava-945bba281/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unnati.srivastava66@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=unnatissrivastava&style=for-the-badge&color=5B9BD5&label=VISITORS)
 
 </div>
@@ -35,4 +35,96 @@ currently:
 
 approach:
   - understand the data before modeling it
+  - keep pipelines clean and reproducible
+  - validate results, not just accuracy scores
+  - learn something new every project
+```
 
+> Good data science isn't just about the model, it's about asking the right question first.
+
+<br/>
+
+## 🛠️ Engineering Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,c,js" />
+
+<br/>
+
+**Application and Web**
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+<br/>
+
+**AI, Backend and Data**
+
+<img src="https://skillicons.dev/icons?i=anaconda,sqlite" />
+
+<br/>
+
+**Tools and Environment**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+
+</div>
+
+<br/>
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=unnatissrivastava&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=5B9BD5&text_color=D9D1C0&icon_color=5B9BD5" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=unnatissrivastava&layout=compact&hide_border=true&bg_color=0D1117&title_color=5B9BD5&text_color=D9D1C0" width="38%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=unnatissrivastava&hide_border=true&background=0D1117&ring=5B9BD5&fire=5B9BD5&currStreakLabel=5B9BD5&sideLabels=8B949E&currStreakNum=E9DFC0&sideNums=E9DFC0&dates=8B949E" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=unnatissrivastava&bg_color=0D1117&color=D9D1C0&line=5B9BD5&point=1A2E40&area=true&hide_border=true&custom_title=Contribution%20Activity" width="90%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/unnatissrivastava/unnatissrivastava/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+<br/>
+
+## 🎯 Currently
+
+- 🔭 Working on strengthening my **machine learning and data analysis** skills through hands-on projects
+- 🌱 Learning **web development** alongside my AI/ML journey
+- 💡 Interested in collaborating on **data-driven products** and clean, well-documented pipelines
+- 📫 Best way to reach me : LinkedIn or email below
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to collaborating on data science and ML projects, learning together, and interesting analytics problems.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unnati-vardhan-srivastava-945bba281/)
+[![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unnati.srivastava66@gmail.com)
+
+<br/>
+
+`Explore the data. Build the model. Trust the result.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B9BD5,100:1A2E40&height=100&section=footer" width="100%"/>
+
+</div>
