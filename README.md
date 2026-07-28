@@ -6,7 +6,6 @@
 
 **AI/ML Engineer · Data Science**
 
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/unnati-vardhan-srivastava-945bba281/)
@@ -92,7 +91,7 @@ approach:
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=unnatissrivastava&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=unnatissrivastava&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
 
 </div>
 
