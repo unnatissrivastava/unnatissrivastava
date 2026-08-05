@@ -82,9 +82,7 @@ approach:
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=unnatissrivastava&layout=compact&hide_border=true&bg_color=0D1117&title_color=5B9BD5&text_color=D9D1C0" width="38%"/>
 
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=unnatissrivastava&hide_border=true&background=0D1117&ring=5B9BD5&fire=5B9BD5&currStreakLabel=5B9BD5&sideLabels=8B949E&currStreakNum=E9DFC0&sideNums=E9DFC0&dates=8B949E" width="70%"/>
-
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=unnatissrivastava&hide_border=true&background=0D1117&ring=5B9BD5&fire=5B9BD5&currStreakLabel=5B9BD5&sideLabels=8B949E&currStreakNum=E9DFC0&sideNums=E9DFC0&dates=8B949E" width="70%"/>
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=unnatissrivastava&bg_color=0D1117&color=D9D1C0&line=5B9BD5&point=1A2E40&area=true&hide_border=true&custom_title=Contribution%20Activity" width="90%"/>
