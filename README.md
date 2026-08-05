@@ -74,7 +74,38 @@ approach:
 
 <br/>
 
+## 📈 GitHub Activity
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B9BD5,100:1A2E40&height=3&width=100%" width="100%"/>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="52%">
+      <img src="https://github-stats-extended.vercel.app/api?username=unnatissrivastava&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=5B9BD5&text_color=D9D1C0&icon_color=5B9BD5&count_private=true" width="100%"/>
+    </td>
+    <td valign="top" width="42%">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=unnatissrivastava&layout=compact&hide_border=true&bg_color=0D1117&title_color=5B9BD5&text_color=D9D1C0&langs_count=8" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=unnatissrivastava&hide_border=true&background=0D1117&ring=5B9BD5&fire=5B9BD5&currStreakLabel=5B9BD5&sideLabels=8B949E&currStreakNum=E9DFC0&sideNums=E9DFC0&dates=8B949E" width="65%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=unnatissrivastava&bg_color=0D1117&color=D9D1C0&line=5B9BD5&point=E9DFC0&area=true&area_color=1A2E40&hide_border=true&custom_title=Contribution%20Activity" width="90%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2E40,100:5B9BD5&height=3&width=100%" width="100%"/>
 
 ## 🐍 Contribution Snake
 
