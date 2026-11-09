@@ -97,10 +97,6 @@ approach:
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=unnatissrivastava&hide_border=true&background=0D1117&hide_current_streak=true&sideLabels=8B949E&sideNums=E9DFC0&dates=8B949E" width="65%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=unnatissrivastava&bg_color=0D1117&color=D9D1C0&line=5B9BD5&point=E9DFC0&area=true&area_color=1A2E40&hide_border=true&custom_title=Contribution%20Activity" width="90%"/>
-
 </div>
 
 <br/>
