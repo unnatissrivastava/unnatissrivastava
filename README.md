@@ -95,7 +95,7 @@ approach:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=unnatissrivastava&hide_border=true&background=0D1117&ring=5B9BD5&fire=5B9BD5&currStreakLabel=5B9BD5&sideLabels=8B949E&currStreakNum=E9DFC0&sideNums=E9DFC0&dates=8B949E" width="65%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=unnatissrivastava&hide_border=true&background=0D1117&hide_current_streak=true&sideLabels=8B949E&sideNums=E9DFC0&dates=8B949E" width="65%"/>
 
 <br/><br/>
 
