@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-I'm a Data Science and Machine Learning enthusiast who enjoys turning raw, messy data into clear, usable insight. My work centers on Python, and I spend most of my time cleaning data, exploring it, and building models that are easy to explain, not just ones that score well on a leaderboard.
+
 
 
 ```yaml
