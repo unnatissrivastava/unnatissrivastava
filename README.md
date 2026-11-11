@@ -20,7 +20,6 @@
 
 I'm a Data Science and Machine Learning enthusiast who enjoys turning raw, messy data into clear, usable insight. My work centers on Python, and I spend most of my time cleaning data, exploring it, and building models that are easy to explain, not just ones that score well on a leaderboard.
 
-I believe good data science starts with asking the right question, not jumping straight to the algorithm. Along the way, I'm also picking up web development, so I can build interfaces for the things I create, not just notebooks.
 
 ```yaml
 name: Unnati Vardhan Srivastava
