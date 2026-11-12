@@ -17,7 +17,7 @@
 <br/>
 
 ## 🧠 About Me
-I'm a FinTech and Data Science enthusiast interested in exploring how technology, data, and machine learning can reshape the financial world. My work primarily revolves around Python, data analysis, and building intelligent solutions that turn complex financial data into meaningful insights.
+I'm a FinTech and enthusiast interested in exploring how technology, data, and machine learning can reshape the financial world. My work primarily revolves around Python, data analysis, and building intelligent solutions that turn complex financial data into meaningful insights.
 
 I'm particularly interested in financial analytics, predictive modelling, algorithmic thinking, and the intersection of AI and finance. I enjoy understanding the problems behind the numbers and building solutions that are not just technically sound but also practical, interpretable, and impactful.
 
