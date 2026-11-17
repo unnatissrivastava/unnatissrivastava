@@ -45,7 +45,7 @@ approach:
 
 ## 🛠️ Engineering Stack
 
-
+<div align="center">
 
 **Languages**
 
