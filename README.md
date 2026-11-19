@@ -1,12 +1,12 @@
 <p align="center">
-<a href="https://github.com/unnatissrivastava"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Unnati%20Vardhan%20Srivastava&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer%20%C2%B7%20Data%20Science&descSize=24&descAlignY=64" width="100%" alt="Unnati Vardhan Srivastava, AI/ML Engineer and Data Science" /></a>
+<a href="https://github.com/unnatissrivastava"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:FFD1DC&height=220&section=header&text=Unnati%20Vardhan%20Srivastava&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer%20%C2%B7%20Data%20Science&descSize=24&descAlignY=64" width="100%" alt="Unnati Vardhan Srivastava, AI/ML Engineer and Data Science" /></a>
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+understand+the+data+first.;%3E+keep+pipelines+clean+and+reproducible.;%3E+validate+results%2C+not+just+accuracy." width="100%" alt="Typing lines" />
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/unnati-vardhan-srivastava-945bba281/"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:unnati.srivastava66@gmail.com"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=unnatissrivastava&style=for-the-badge&color=A21517&label=VISITORS" alt="Profile views" />
+<a href="https://www.linkedin.com/in/unnati-vardhan-srivastava-945bba281/"><img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" alt="LinkedIn" /></a>
+<a href="mailto:unnati.srivastava66@gmail.com"><img src="https://img.shields.io/badge/Email-FFD1DC?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=unnatissrivastava&style=for-the-badge&color=FFD1DC&label=VISITORS" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -94,20 +94,20 @@ approach:
 
 ## 📈 github activity
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:A21517,100:0A0A0A&height=3&width=100%25" width="100%" alt="divider" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD1DC,100:0A0A0A&height=3&width=100%25" width="100%" alt="divider" /></p>
 
 <table align="center">
 <tr>
-<td><img src="https://github-stats-extended.vercel.app/api?username=unnatissrivastava&show_icons=true&hide_border=true&rank_icon=github&bg_color=0A0A0A&title_color=E5EE4E&text_color=ECBDD8&icon_color=A21517&count_private=true" alt="GitHub stats" /></td>
+<td><img src="https://github-stats-extended.vercel.app/api?username=unnatissrivastava&show_icons=true&hide_border=true&rank_icon=github&bg_color=0A0A0A&title_color=E5EE4E&text_color=ECBDD8&icon_color=FFD1DC&count_private=true" alt="GitHub stats" /></td>
 <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=unnatissrivastava&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E5EE4E&text_color=ECBDD8&langs_count=8" alt="Top languages" /></td>
 </tr>
 </table>
 
-<p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app?user=unnatissrivastava&hide_border=true&background=0A0A0A&ring=A21517&fire=E5EE4E&currStreakLabel=E5EE4E&sideLabels=ECBDD8&currStreakNum=ECBDD8&sideNums=ECBDD8&dates=8B949E" alt="GitHub streak" /></p>
+<p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app?user=unnatissrivastava&hide_border=true&background=0A0A0A&ring=FFD1DC&fire=E5EE4E&currStreakLabel=E5EE4E&sideLabels=ECBDD8&currStreakNum=ECBDD8&sideNums=ECBDD8&dates=8B949E" alt="GitHub streak" /></p>
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=unnatissrivastava&bg_color=0A0A0A&color=ECBDD8&line=A21517&point=E5EE4E&area=true&area_color=A21517&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" /></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=unnatissrivastava&bg_color=0A0A0A&color=ECBDD8&line=FFD1DC&point=E5EE4E&area=true&area_color=FFD1DC&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" /></p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:A21517,100:0A0A0A&height=3&width=100%25" width="100%" alt="divider" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD1DC,100:0A0A0A&height=3&width=100%25" width="100%" alt="divider" /></p>
 
 ## 🐍 contribution snake
 
@@ -125,10 +125,10 @@ approach:
 I'm open to collaborating on data science and ML projects, learning together, and interesting analytics problems.
 
 <p align="center">
-<a href="https://www.linkedin.com/in/unnati-vardhan-srivastava-945bba281/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:unnati.srivastava66@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-A21517?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/unnati-vardhan-srivastava-945bba281/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" alt="LinkedIn" /></a>
+<a href="mailto:unnati.srivastava66@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-FFD1DC?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email" /></a>
 </p>
 
 <p align="center"><code>Explore the data. Build the model. Trust the result.</code></p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=Explore%20the%20data.%20Build%20the%20model.%20Trust%20the%20result.&fontSize=24&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Explore the data. Build the model. Trust the result." /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFD1DC,100:0A0A0A&height=90&section=footer&text=Explore%20the%20data.%20Build%20the%20model.%20Trust%20the%20result.&fontSize=24&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Explore the data. Build the model. Trust the result." /></p>
