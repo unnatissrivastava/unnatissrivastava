@@ -1,139 +1,132 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2E40,100:5B9BD5&height=110&section=header" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1500&color=E9DFC0&center=true&vCenter=true&width=600&height=55&lines=Unnati+Vardhan+Srivastava" alt="name"/>
-
-**AI/ML Engineer · Data Science**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unnati-vardhan-srivastava-945bba281/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unnati.srivastava66@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=unnatissrivastava&style=for-the-badge&color=5B9BD5&label=VISITORS)
-
-</div>
-
-<br/>
-
-## 🧠 About Me
-I'm a FinTech and Data Science enthusiast interested in exploring how technology, data, and machine learning can reshape the financial world. My work primarily revolves around Python, data analysis, and building intelligent solutions that turn complex financial data into meaningful insights.
-
-I'm particularly interested in financial analytics, predictive modelling, algorithmic thinking, and the intersection of AI and finance. I enjoy understanding the problems behind the numbers and building solutions that are not just technically sound but also practical, interpretable, and impactful.
-
-```yaml
-name: Unnati Vardhan Srivastava
-alias: unnatissrivastava
-focus: AI / Machine Learning · Data Science
-
-currently:
-  - working with     : Python, C, Pandas, NumPy
-  - exploring         : machine learning models & pipelines
-  - learning          : web development fundamentals
-  - interested in     : data visualization, exploratory data analysis
-
-approach:
-  - understand the data before modeling it
-  - keep pipelines clean and reproducible
-  - validate results, not just accuracy scores
-  - learn something new every project
+<p align="center">
+  <a href="https://github.com/unnatissrivastava"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Unnati%20Vardhan%20Srivastava&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Science%20%C2%B7%20Machine%20Learning&descSize=24&descAlignY=64" width="100%" alt="Unnati Vardhan Srivastava, Data Science and Machine Learning" /></a>
+ 
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+understand+the+data+first.;%3E+keep+pipelines+clean+and+reproducible.;%3E+validate+results%2C+not+just+accuracy." width="100%" alt="Typing lines" />
+</p>
+ 
+<p align="center">
+  <a href="https://www.linkedin.com/in/unnati-vardhan-srivastava-945bba281/"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
+ 
+  <a href="mailto:unnati.srivastava66@gmail.com"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge" alt="Email" /></a>
+ 
+</p>
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/19-public_repos-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="19 public repos" />
+  <img src="https://img.shields.io/badge/Python_·_C_·_C++-languages-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Languages" />
+  <img src="https://img.shields.io/badge/Pandas_·_NumPy_·_Matplotlib-core_stack-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Core stack" />
+</p>
+ 
+## 🧬 about
+ 
+ 
+```python
+ 
+me = {
+ 
+    "does":     "turns raw, messy data into clear, usable insight",
+ 
+    "based":    "Noida, Uttar Pradesh, India",
+ 
+    "degree":   "B.Tech CSE, Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
+ 
+    "focus":    "Data Science, then AI / Machine Learning",
+ 
+    "learning": ["machine learning models & pipelines", "web development fundamentals"],
+ 
+    "interested_in": ["data visualization", "exploratory data analysis"],
+ 
+}
+ 
 ```
-
+ 
+ 
 > Good data science isn't just about the model, it's about asking the right question first.
-
-<br/>
-
-## 🛠️ Engineering Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py,c,js" />
-
-<br/>
-
-**Application and Web**
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-<br/>
-
-**AI, Backend and Data**
-
-<img src="https://skillicons.dev/icons?i=anaconda,sqlite" />
-
-<br/>
-
-**Tools and Environment**
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
-
-</div>
-
-<br/>
-
-## 📈 GitHub Activity
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B9BD5,100:1A2E40&height=3&width=100%" width="100%"/>
-
-<br/>
-
-<table align="center">
+ 
+ 
+## 🚀 projects
+ 
+ 
+<table>
   <tr>
-    <td valign="top" width="52%">
-      <img src="https://github-stats-extended.vercel.app/api?username=unnatissrivastava&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=5B9BD5&text_color=D9D1C0&icon_color=5B9BD5&count_private=true" width="100%"/>
+    <td width="50%" valign="top">
+ 
+      <h3>🌿 <a href="https://github.com/unnatissrivastava/greensight">greensight</a></h3>
+ 
+      <sub><b>web project</b></sub>
+ 
+      <p>A web project built with HTML. Add a one-line description of what it does here.</p>
+ 
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+ 
     </td>
-    <td valign="top" width="42%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=unnatissrivastava&layout=compact&hide_border=true&bg_color=0D1117&title_color=5B9BD5&text_color=D9D1C0&langs_count=8" width="100%"/>
+ 
+    <td width="50%" valign="top">
+ 
+      <h3>📊 <a href="https://github.com/unnatissrivastava/pandas-summary">pandas-summary</a></h3>
+ 
+      <sub><b>data analysis notes</b></sub>
+ 
+      <p>A notebook summarizing the Pandas essentials for cleaning and exploring data.</p>
+ 
+      <p><code>Python</code> <code>Pandas</code> <code>Jupyter</code></p>
+ 
     </td>
+ 
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+ 
+      <h3>🔢 <a href="https://github.com/unnatissrivastava/numpy-summary">numpy-summary</a> · <a href="https://github.com/unnatissrivastava/matplotlib-summary">matplotlib-summary</a></h3>
+ 
+      <sub><b>numerical computing and plotting notes</b></sub>
+ 
+      <p>Companion notebooks covering NumPy arrays and Matplotlib visualization.</p>
+ 
+      <p><code>Python</code> <code>NumPy</code> <code>Matplotlib</code></p>
+ 
+    </td>
+ 
+    <td width="50%" valign="top">
+ 
+      <h3>🧩 <a href="https://github.com/unnatissrivastava/leetcode-solns">leetcode-solns</a> · <a href="https://github.com/unnatissrivastava/100-python-ques">100-python-ques</a></h3>
+ 
+      <sub><b>problem solving practice</b></sub>
+ 
+      <p>LeetCode solutions in C++ and a set of 100 Python practice questions.</p>
+ 
+      <p><code>C++</code> <code>Python</code></p>
+ 
+    </td>
+ 
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+ 
+      <h3>📂 <a href="https://github.com/unnatissrivastava?tab=repositories">More Work</a></h3>
+ 
+      <sub><b>everything else</b></sub>
+ 
+      <p>All 19 repositories live here.</p>
+ 
+    </td>
+ 
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=unnatissrivastava&hide_border=true&background=0D1117&hide_current_streak=true&sideLabels=8B949E&sideNums=E9DFC0&dates=8B949E" width="65%"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2E40,100:5B9BD5&height=3&width=100%" width="100%"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/unnatissrivastava/unnatissrivastava/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
-<br/>
-
-## 🎯 Currently
-
-- 🔭 Working on strengthening my **machine learning and data analysis** skills through hands-on projects
-- 🌱 Learning **web development** alongside my AI/ML journey
-- 💡 Interested in collaborating on **data-driven products** and clean, well-documented pipelines
-- 📫 Best way to reach me : LinkedIn or email below
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm open to collaborating on data science and ML projects, learning together, and interesting analytics problems.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unnati-vardhan-srivastava-945bba281/)
-[![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unnati.srivastava66@gmail.com)
-
-<br/>
-
-`Explore the data. Build the model. Trust the result.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B9BD5,100:1A2E40&height=100&section=footer" width="100%"/>
-
-</div>
+ 
+## 🧰 stack
+ 
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,react,sqlite,anaconda,linux,git,github,vscode&perline=13&theme=dark" alt="Tech stack" />
+</p>
+ 
+<p align="center"><b>Working on a data or ML project? I'd love to hear about it.</b></p>
+ 
+<p align="center">
+  <a href="mailto:unnati.srivastava66@gmail.com"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a>
+ 
+</p>
+ 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=Explore%20the%20data.%20Build%20the%20model.%20Trust%20the%20result.&fontSize=24&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Explore the data. Build the model. Trust the result." /></p>
+ 
