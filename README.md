@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1500&color=E9DFC0&center=true&vCenter=true&width=600&height=55&lines=Unnati+Vardhan+Srivastava" alt="name"/>
 
-**AI/ML Engineer · Data Science**
 
 <br/>
 
